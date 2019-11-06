@@ -11,7 +11,7 @@ const (
 	ItemNameEmphasizeChar      = "\u2500"
 	ItemNameStartChar          = "\u251C"
 	DirectoryVerticalSpaceChar = "\u007C"
-	SpaceChar 				   = "\u0020"
+	SpaceChar		   = "\u0020"
 )
 
 //Directory tree print struct, have root directory and print only dirs mode
